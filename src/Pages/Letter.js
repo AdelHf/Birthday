@@ -66,7 +66,7 @@ export default function Letter() {
           ></TypingAnimation>
         </AnimatePresence>
       </h1>
-      <p className="absolute top-[200px] font-secondary text-white text-[40px] mt-[50px] w-[1300px] h-[600px]">
+      <p className="absolute top-[200px] font-secondary text-white text-[40px] mt-[50px] w-[1300px] h-[601px]">
         <AnimatePresence>
           <TypingAnimation
             text={text}
