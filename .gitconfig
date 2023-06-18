@@ -1,0 +1,14 @@
+[user]
+    name = AdelHf
+    email = ladelinou@gmail.com     
+    password = 24866842anxioushafri
+[http]
+    sslVerify = false
+[https]
+    sslverify = false
+[push]
+    default = simple
+[credential]
+    helper = cache --timeout=360000000
+[core]
+    autocrlf = false
