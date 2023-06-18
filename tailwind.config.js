@@ -12,12 +12,12 @@ module.exports = {
         purpleD: "#882D85",
       },
       fontFamily: {
-        primary: ["Turret Road"],
-        secondary: ["Major Mono Display"],
+        primary: ["Pacifico"],
+        secondary: ["Satisfy"],
+        third: ["Alkatra"],
       },
       backgroundImage: {
-        Main: "url('./images/ChatBox.png')",
-        Main2: "url('./images/ChatBoxF.png')",
+        Main: "url('./images/pink-g7767ccc68_1920.png')",
       },
       scale: {
         "-100": "-1",
