@@ -8,7 +8,7 @@ import {
 import Heart from "../images/line-heart-svgrepo-com.svg";
 import TypingAnimation from "../Animations/TypingAnimation";
 import Gifts from "../Componenets/Gifts";
-export default function HomePage(props) {
+export default function Birthday(props) {
   const x = useMotionValue(0);
 
   const Texts = [
